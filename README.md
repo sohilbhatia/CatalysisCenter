@@ -9,3 +9,5 @@ Implementation involves downloading the specified packages in search.py
 blend.py explores the ripgrep search processor in detail
 
 extractly.py is a keyword extracter for user input and query 
+
+Copyright for PNNL use only (c)
